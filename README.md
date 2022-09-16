@@ -6,4 +6,4 @@ Company is aiming for Olx customers.
 They might need a data such as phone number for marketing. 
 The objective is to create an app that will deliver up to 1000 scraped numbers from different job sectors. 
 
-
+The objective not completed because I could not bypass Google protocol. However it worked okay in the beginning.  
